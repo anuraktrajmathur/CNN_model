@@ -34,7 +34,7 @@ It includes two main scripts:
 pip install -r requirements.txt
 ```
 ### Requirements
-````bash
+```bash
 tensorflow
 keras
 numpy
