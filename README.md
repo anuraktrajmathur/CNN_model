@@ -100,5 +100,7 @@ This project is inspired and supported by the following research papers included
 ## 📄 License
 This project is open source and available under the MIT License.
 
-## 📧 Contact
-For questions or issues, please contact Anurakt Raj Mathur at [anuraktrajmathur@gmail.com].
+### 🙋‍♂️ Author
+Anurakt Raj Mathur
+💼 [LinkedIn](https://www.linkedin.com/in/anurakt-raj-mathur)
+📬 Email: anuraktrajmathur@gmail.com
