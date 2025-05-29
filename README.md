@@ -97,6 +97,10 @@ This project is inspired and supported by the following research papers included
 2. Traffic Sign Detection and Recognition Using Adaptive Threshold Segmentation with Fuzzy Neural Network Classification
     📝 A comprehensive approach combining adaptive image segmentation and fuzzy neural networks for accurate traffic sign recognition.
 
+## Contributions 🤝
+The project was developed in partenership with Neofytos Dionysiou
+📬 Email: fytsfyts97@live.com
+
 ## 📄 License
 This project is open source and available under the MIT License.
 
